@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.pyc
+*.checkpoints/
+runs/
+locomo10.json
+.env
